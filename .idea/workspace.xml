@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ecccdc6-b7cb-4824-84b4-22f3b2c65b03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/TPE_Net_Training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TPE_Net_Training.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/MybestSoFar.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_1200.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_18400.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_19600.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_20000.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_23500.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_37000.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_4000.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_43000.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_4600.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_6000.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_63000.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_9900.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_bis.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_dlink.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/Mybest_erf.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/erfnet.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/hardnet_best.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/runs/hardnet/cur/temp.pkl" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2e8rZtUb6Bj0GXhkmOYHEG3upVQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.railsem19_seg_triplet_loader_b.executor": "Run",
+    "Python.testcuda.executor": "Run",
+    "Python.train_my_rpnet_c.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/mmoei/PycharmProjects/TPE_Net_Training",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="train_my_rpnet_c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TPE_Net_Training" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="CUDA_LAUNCH_BLOCKING" value="1" />
+        <env name="TF_ENABLE_ONEDNN_OPTS" value="0" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/train_py" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/train_py/train_my_rpnet_c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_my_rpnet_c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ecccdc6-b7cb-4824-84b4-22f3b2c65b03" name="Changes" comment="" />
+      <created>1711297105089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711297105089</updated>
+      <workItem from="1711297106737" duration="639000" />
+      <workItem from="1711385354297" duration="3462000" />
+      <workItem from="1711389596236" duration="1343000" />
+      <workItem from="1711466862655" duration="2031000" />
+      <workItem from="1711469687077" duration="1525000" />
+      <workItem from="1711472888230" duration="882000" />
+      <workItem from="1711474648007" duration="4190000" />
+      <workItem from="1711479329206" duration="996000" />
+      <workItem from="1711480340521" duration="67000" />
+      <workItem from="1711481463469" duration="829000" />
+      <workItem from="1711483484297" duration="1229000" />
+      <workItem from="1711486877787" duration="2349000" />
+      <workItem from="1711491049276" duration="660000" />
+      <workItem from="1711503137267" duration="2506000" />
+      <workItem from="1711567025676" duration="2099000" />
+      <workItem from="1712530997884" duration="6023000" />
+      <workItem from="1712780286396" duration="111000" />
+      <workItem from="1713327260414" duration="2654000" />
+      <workItem from="1713464709510" duration="43024000" />
+      <workItem from="1715365426165" duration="1446000" />
+      <workItem from="1717175044280" duration="12776000" />
+      <workItem from="1718155475776" duration="51391000" />
+      <workItem from="1720625734169" duration="37115000" />
+      <workItem from="1723670915625" duration="12896000" />
+      <workItem from="1724085788004" duration="1206000" />
+      <workItem from="1725467290294" duration="11144000" />
+      <workItem from="1726179315530" duration="11319000" />
+      <workItem from="1727976073067" duration="3761000" />
+      <workItem from="1727980960946" duration="142000" />
+      <workItem from="1727982951773" duration="5415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TPE_Net_Training$train_my_rpnet_c.coverage" NAME="train_my_rpnet_c Coverage Results" MODIFIED="1727987659144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/train_py" />
+    <SUITE FILE_PATH="coverage/TPE_Net_Training$railsem19_seg_triplet_loader_b.coverage" NAME="railsem19_seg_triplet_loader_b Coverage Results" MODIFIED="1711467323298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TPE_training/proj_seg_hardnet_a_20210821_1/proj_seg_hardnet_a/ptsemseg/loader" />
+    <SUITE FILE_PATH="coverage/TPE_Net_Training$testcuda.coverage" NAME="testcuda Coverage Results" MODIFIED="1711503822504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TPE_training" />
+  </component>
+</project>
